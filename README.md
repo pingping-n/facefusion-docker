@@ -3,7 +3,7 @@ FaceFusion Docker
 
 > Industry leading face manipulation platform.
 
-[![Build Status](https://img.shields.io/github/actions/workflow/status/facefusion/facefusion-docker/ci.yml.svg?branch=master)](https://github.com/facefusion/facefusion-docker/actions?query=workflow:ci)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/facefusion/facefusion-docker/ci.yml.svg?branch=master)](https://github.com/pingping-n/facefusion-docker/actions?query=workflow:ci)
 [![Docker Hub](https://img.shields.io/docker/v/facefusion/facefusion/3.2.0-cpu?label=docker-hub)](https://hub.docker.com/r/facefusion/facefusion/tags?name=3.2.0-cpu)
 [![Docker Hub](https://img.shields.io/docker/v/facefusion/facefusion/3.2.0-cuda?label=docker-hub)](https://hub.docker.com/r/facefusion/facefusion/tags?name=3.2.0-cuda)
 [![Docker Hub](https://img.shields.io/docker/v/facefusion/facefusion/3.2.0-tensorrt?label=docker-hub)](https://hub.docker.com/r/facefusion/facefusion/tags?name=3.2.0-tensorrt)
@@ -17,7 +17,7 @@ Installation
 Clone the repository:
 
 ```
-git clone https://github.com/facefusion/facefusion-docker.git
+git clone https://github.com/pingping-n/facefusion-docker.git
 ```
 
 Run the `CPU` container:
